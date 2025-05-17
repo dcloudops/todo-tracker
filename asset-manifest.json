@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dcloudops/todo-tracker.git/static/css/main.4116b2b1.css",
+    "main.js": "/dcloudops/todo-tracker.git/static/js/main.7351615e.js",
+    "static/js/453.ac79db8d.chunk.js": "/dcloudops/todo-tracker.git/static/js/453.ac79db8d.chunk.js",
+    "static/media/logo.svg": "/dcloudops/todo-tracker.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/dcloudops/todo-tracker.git/index.html",
+    "main.4116b2b1.css.map": "/dcloudops/todo-tracker.git/static/css/main.4116b2b1.css.map",
+    "main.7351615e.js.map": "/dcloudops/todo-tracker.git/static/js/main.7351615e.js.map",
+    "453.ac79db8d.chunk.js.map": "/dcloudops/todo-tracker.git/static/js/453.ac79db8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4116b2b1.css",
+    "static/js/main.7351615e.js"
+  ]
+}
