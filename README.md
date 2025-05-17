@@ -14,7 +14,7 @@ A simple, elegant todo application built with React featuring a clean UI and cor
 
 ## Live Demo
 
-[View the live demo](#) (https://dcloudops.github.io/todo-tracker/)
+[View the live demo](https://dcloudops.github.io/todo-tracker/)
 
 ## Getting Started
 
