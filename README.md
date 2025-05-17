@@ -14,7 +14,7 @@ A simple, elegant todo application built with React featuring a clean UI and cor
 
 ## Live Demo
 
-[View the live demo](#) (deployment link will go here)
+[View the live demo](#) (https://dcloudops.github.io/todo-tracker/)
 
 ## Getting Started
 
@@ -27,8 +27,8 @@ A simple, elegant todo application built with React featuring a clean UI and cor
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/react-todo-app.git
-cd react-todo-app
+git clone https://github.com/dcloudops/todo-tracker.git
+cd todo-tracker
 ```
 
 2. Install dependencies
